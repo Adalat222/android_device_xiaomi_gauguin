@@ -2,7 +2,7 @@ echo 'Starting to clone stuffs needed for your device'
 
 echo 'Cloning Vendor tree [1/3]'
 # Vendor Tree
-git clone --depth=1 https://github.com/Vendor-Blobs/android_vendor_tree_xiaomi_gauguin vendor/xiaomi/gauguin
+git clone --depth=1 https://github.com/iitzrohan/vendor_xiaomi_gauguin vendor/xiaomi/gauguin
 
 echo 'Cloning Kernel tree [2/3]'
 # Kernel Tree
